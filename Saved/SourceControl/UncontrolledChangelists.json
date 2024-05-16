@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealEngineProjects/SmashRunner/Content/Sounds/Footsteps/S_Step_1.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Sounds/Footsteps/S_Step_2.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Background/T_Field.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Goal/T_Goal_Connected.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Goal/T_Goal_Ripped.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Background/T_Field_Sprite.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Goal/T_Goal_Connected_Sprite.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Goal/T_Goal_Ripped_Sprite.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/MainRunnerMap.umap",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner_Sprite_0.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner_Sprite_1.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner_Sprite_2.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner_Sprite_3.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner_Sprite_4.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner_Sprite_5.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner_Sprite_6.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner_Sprite_7.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner_Sprite_8.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner_Sprite_9.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/PF_IdleRunner.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/PF_RunRunner.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/MainLevel/MainRunnerMap.umap",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Blueprints/BP_Runner.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/InputSection/Actions/IA_PowerLeft.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/InputSection/Actions/IA_PowerRight.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/InputSection/IMC_Runner.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Blueprints/GameModes/GM_Runner.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Enum/E_Input.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Curves/FC_SpeedRam.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Curves/C_SpeedRam.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Blueprints/Runner.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner_Sprite.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner_Sprite_10.uasset",
+				"D:/UnrealEngineProjects/SmashRunner/Content/Assets/Runner/T_Runner_Sprite_11.uasset"
+			]
+		}
+	]
+}
