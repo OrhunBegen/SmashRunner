@@ -3287,3 +3287,1484 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.16-17.45.40:183][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.05.16-17.45.40:184][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
 [2024.05.16-17.45.40:218][838]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.05.16-17.52.04:086][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-17.52.04:162][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.05.16-17.52.04:187][729]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.05.16-17.52.04:187][729]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/BP_Runner5643C0A04606365FC687F29629B74AD5.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.05.16-17.52.04:196][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 6.12 sec)
+[2024.05.16-17.52.04:203][729]AssetCheck: New page: Asset Save: BP_Runner
+[2024.05.16-17.52.04:203][729]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2024.05.16-17.52.31:350][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-17.52.31:429][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.05.16-17.52.31:450][148]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.05.16-17.52.31:451][148]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/BP_RunnerAA57C123420DAC2021039081E46C6EDB.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.05.16-17.52.31:459][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 6.22 sec)
+[2024.05.16-17.52.31:468][148]AssetCheck: New page: Asset Save: BP_Runner
+[2024.05.16-17.52.31:468][148]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2024.05.16-17.55.28:309][ 43]BlueprintLog: New page: Compile BP_Runner
+[2024.05.16-17.55.28:368][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.05.16-17.55.29:620][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.05.16-17.55.29:626][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/PlayableRunnerMap_Auto3
+[2024.05.16-17.55.29:626][109]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/PlayableRunnerMap_Auto3509400E241CD9569AEE2D09A8B1FA1F4.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/Autosaves/Game/Level/PlayableRunnerMap_Auto3.umap'
+[2024.05.16-17.55.29:634][109]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/PlayableRunnerMap' took 0.037
+[2024.05.16-17.55.29:634][109]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2024.05.16-17.55.29:635][109]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2024.05.16-17.55.29:635][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2024.05.16-17.55.29:635][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.05.16-17.55.29:657][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Runner_Auto3
+[2024.05.16-17.55.29:657][109]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/BP_Runner_Auto3E4693CED473F5347944FE0A1D244407C.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto3.uasset'
+[2024.05.16-17.55.29:657][109]LogFileHelpers: Auto-saving content packages took 0.023
+[2024.05.16-17.55.47:123][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-17.55.47:195][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.05.16-17.55.47:217][151]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.05.16-17.55.47:218][151]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/BP_Runner0D4788D74D8B7F565F8F05B0E51FBF74.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.05.16-17.55.47:225][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 6.33 sec)
+[2024.05.16-17.55.47:231][151]AssetCheck: New page: Asset Save: BP_Runner
+[2024.05.16-17.55.47:231][151]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2024.05.16-17.55.48:036][200]BlueprintLog: New page: Compile BP_Runner
+[2024.05.16-17.55.48:092][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.05.16-17.56.35:505][561]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.16-17.56.35:517][561]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.16-17.56.35:528][562]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.16-17.56.37:837][701]LogContentBrowser: Attempting asset rename: NewFolder -> AI
+[2024.05.16-17.56.37:837][701]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.16-17.56.39:396][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.05.16-17.56.39:422][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.16-17.56.40:606][793]LogSlate: Window 'Save Content' being destroyed
+[2024.05.16-17.56.40:614][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-17.56.40:699][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/PlayableRunnerMap" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Level/PlayableRunnerMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.16-17.56.40:725][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.16-17.56.40:730][793]LogSavePackage: Moving output files for package: /Game/Level/PlayableRunnerMap
+[2024.05.16-17.56.40:730][793]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/PlayableRunnerMap765893614BD00535EEBD44ADAE453A18.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Level/PlayableRunnerMap.umap'
+[2024.05.16-17.56.40:739][793]LogFileHelpers: Saving map 'PlayableRunnerMap' took 0.041
+[2024.05.16-17.56.40:751][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 6.46 sec)
+[2024.05.16-17.56.40:757][793]AssetCheck: New page: Asset Save: PlayableRunnerMap
+[2024.05.16-17.56.40:757][793]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/PlayableRunnerMap.PlayableRunnerMap
+[2024.05.16-17.57.07:395][133]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.16-17.57.07:403][133]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.16-17.57.07:409][133]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.16-17.57.07:441][135]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.16-17.57.09:183][240]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.05.16-17.57.09:190][240]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.16-17.57.31:532][852]LogContentBrowser: Attempting asset rename: NewBlueprint -> AIC_Runner
+[2024.05.16-17.57.31:563][852]LogMetaData: Removing '/Game/Blueprints/AI/AIC_Runner.AIC_Runner:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/AI/NewBlueprint.PackageMetaData'
+[2024.05.16-17.57.31:571][852]LogMetaData: Removing '/Game/Blueprints/AI/AIC_Runner.SKEL_AIC_Runner_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/AI/NewBlueprint.PackageMetaData'
+[2024.05.16-17.57.31:571][852]LogMetaData: Removing '/Game/Blueprints/AI/AIC_Runner.SKEL_AIC_Runner_C' ref from Metadata '/Game/Blueprints/AI/NewBlueprint.PackageMetaData'
+[2024.05.16-17.57.31:571][852]LogMetaData: Removing '/Game/Blueprints/AI/AIC_Runner.AIC_Runner_C' ref from Metadata '/Game/Blueprints/AI/NewBlueprint.PackageMetaData'
+[2024.05.16-17.57.31:571][852]LogMetaData: Removing '/Game/Blueprints/AI/AIC_Runner.AIC_Runner:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/AI/NewBlueprint.PackageMetaData'
+[2024.05.16-17.57.31:571][852]LogMetaData: Removing '/Game/Blueprints/AI/AIC_Runner.AIC_Runner:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/AI/NewBlueprint.PackageMetaData'
+[2024.05.16-17.57.31:571][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-17.57.31:636][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-17.57.31:639][852]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-17.57.31:639][852]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_Runner7F80562E4EBD0E888DC9F9B52D7029E3.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-17.57.31:651][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 6.54 sec)
+[2024.05.16-17.57.31:690][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.16-17.57.31:712][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.16-17.57.31:736][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.16-17.57.31:741][852]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-17.57.31:741][852]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-17.57.31:986][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-17.57.32:053][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-17.57.32:055][867]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-17.57.32:056][867]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerAEA6A19347A04C099C77DAB8DC42040B.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-17.57.32:064][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 6.62 sec)
+[2024.05.16-17.57.32:069][867]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-17.57.32:069][867]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-17.57.34:351][  3]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-17.57.34:351][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-17.57.34:351][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-17.57.34:490][  3]LogViewport: Scene viewport resized to 506x312, mode Windowed.
+[2024.05.16-17.57.34:519][  4]LogViewport: Scene viewport resized to 506x309, mode Windowed.
+[2024.05.16-17.57.35:450][ 54]LogViewport: Scene viewport resized to 504x325, mode Windowed.
+[2024.05.16-17.57.35:519][ 56]LogViewport: Scene viewport resized to 427x260, mode Windowed.
+[2024.05.16-17.57.35:542][ 57]LogViewport: Scene viewport resized to 986x570, mode Windowed.
+[2024.05.16-17.57.35:606][ 58]LogViewport: Scene viewport resized to 986x598, mode Windowed.
+[2024.05.16-17.57.35:644][ 58]LogViewport: Scene viewport resized to 984x586, mode Windowed.
+[2024.05.16-17.57.35:686][ 59]LogViewport: Scene viewport resized to 986x573, mode Windowed.
+[2024.05.16-17.57.35:747][ 60]LogViewport: Scene viewport resized to 986x570, mode Windowed.
+[2024.05.16-17.57.36:623][113]LogSlate: Window 'AIC_Runner' being destroyed
+[2024.05.16-17.57.36:631][113]LogViewport: Scene viewport resized to 986x604, mode Windowed.
+[2024.05.16-17.57.36:645][114]LogViewport: Scene viewport resized to 986x600, mode Windowed.
+[2024.05.16-17.57.36:672][115]LogViewport: Scene viewport resized to 986x593, mode Windowed.
+[2024.05.16-17.57.36:691][116]LogViewport: Scene viewport resized to 986x589, mode Windowed.
+[2024.05.16-17.57.36:706][117]LogViewport: Scene viewport resized to 986x584, mode Windowed.
+[2024.05.16-17.57.36:724][118]LogViewport: Scene viewport resized to 986x581, mode Windowed.
+[2024.05.16-17.57.36:740][119]LogViewport: Scene viewport resized to 986x576, mode Windowed.
+[2024.05.16-17.57.36:755][120]LogViewport: Scene viewport resized to 986x572, mode Windowed.
+[2024.05.16-17.57.36:772][121]LogViewport: Scene viewport resized to 986x570, mode Windowed.
+[2024.05.16-17.58.41:502][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-17.58.41:580][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-17.58.41:584][602]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-17.58.41:584][602]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerE0EBC77642898F833A4785B93DABF108.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-17.58.41:592][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 6.71 sec)
+[2024.05.16-17.58.41:598][602]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-17.58.41:598][602]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-17.58.41:673][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-17.58.41:745][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-17.58.41:749][607]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-17.58.41:750][607]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_Runner0756E7FB40EACF30136E689A1E155391.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-17.58.41:755][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 6.79 sec)
+[2024.05.16-17.58.41:761][607]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-17.58.41:761][607]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-17.58.41:818][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-17.58.41:883][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-17.58.41:887][611]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-17.58.41:887][611]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerA538BABE4C0B5CB99F21F4B42CA80818.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-17.58.41:893][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 6.87 sec)
+[2024.05.16-17.58.41:899][611]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-17.58.41:899][611]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-17.59.13:162][568]BlueprintLog: New page: Compile AIC_Runner
+[2024.05.16-17.59.13:206][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.05.16-17.59.22:759][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-17.59.22:814][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-17.59.22:819][941]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-17.59.22:819][941]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerBB31FA1A44BE09ABF6DE469E2B4E04AE.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-17.59.22:825][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 6.93 sec)
+[2024.05.16-17.59.22:830][941]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-17.59.22:830][941]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-17.59.38:608][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-17.59.38:669][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-17.59.38:674][601]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-17.59.38:674][601]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_Runner6CD5AFC84F7D44B40B4E36B51CE1E8BF.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-17.59.38:681][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 7.01 sec)
+[2024.05.16-17.59.38:686][601]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-17.59.38:687][601]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-17.59.39:335][639]BlueprintLog: New page: Compile AIC_Runner
+[2024.05.16-17.59.39:378][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.05.16-17.59.39:611][652]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-17.59.39:670][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-17.59.39:683][652]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-17.59.39:683][652]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerE426E3EE4F57945B80145DB256CFD4A7.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-17.59.39:691][652]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 7.09 sec)
+[2024.05.16-17.59.39:697][652]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-17.59.39:697][652]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-17.59.43:662][888]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.16-17.59.43:666][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.16-17.59.43:666][888]PIE: New page: PIE session: PlayableRunnerMap (16 May 2024, 23:59:43)
+[2024.05.16-17.59.43:666][888]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-17.59.43:669][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001957s)
+[2024.05.16-17.59.43:669][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/PlayableRunnerMap.PlayableRunnerMap to /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap (0.001990s)
+[2024.05.16-17.59.43:669][888]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-17.59.43:669][888]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-17.59.43:669][888]LogAIModule: Creating AISystem for world PlayableRunnerMap
+[2024.05.16-17.59.43:669][888]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2024.05.16-17.59.43:693][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.05.16-17.59.43:693][888]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.05.16-17.59.43:693][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-17.59.43:693][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-17.59.43:694][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-17.59.43:694][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-17.59.43:694][888]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-17.59.43:694][888]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.16-17.59.43:694][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-17.59.43:694][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-17.59.43:694][888]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-17.59.43:694][888]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-17.59.43:694][888]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-17.59.43:696][888]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-17.59.43:714][888]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.05.16-17.59.43:714][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-17.59.43:714][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-17.59.43:714][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-17.59.43:715][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.05.16-17.59.43:715][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=27
+[2024.05.16-17.59.43:717][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.05.16-17.59.43:717][888]LogInit: FAudioDevice initialized with ID 27.
+[2024.05.16-17.59.43:717][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.05.16-17.59.43:717][888]LogAudio: Display: Audio Device (ID: 27) registered with world 'PlayableRunnerMap'.
+[2024.05.16-17.59.43:717][888]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.05.16-17.59.43:720][888]LogLoad: Game class is 'GM_Runner_C'
+[2024.05.16-17.59.43:721][888]LogWorld: Bringing World /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap up for play (max tick rate 60) at 2024.05.16-20.59.43
+[2024.05.16-17.59.43:721][888]LogWorld: Bringing up level for play took: 0.001105
+[2024.05.16-17.59.43:723][888]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.05.16-17.59.43:723][888]PIE: Server logged in
+[2024.05.16-17.59.43:724][888]PIE: Play in editor total start time 0.058 seconds.
+[2024.05.16-17.59.45:215][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-17.59.45:215][974]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-17.59.45:215][974]LogWorld: UWorld::CleanupWorld for PlayableRunnerMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-17.59.45:215][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-17.59.45:234][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-17.59.45:239][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-17.59.45:260][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.16-17.59.45:260][974]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.05.16-17.59.45:260][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.05.16-17.59.45:261][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.05.16-17.59.45:265][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-17.59.45:267][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.16-17.59.45:300][975]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.05.16-17.59.48:013][ 41]LogViewport: Scene viewport resized to 986x570, mode Windowed.
+[2024.05.16-18.00.16:589][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.00.16:656][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.05.16-18.00.16:679][ 12]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.05.16-18.00.16:680][ 12]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/BP_RunnerEC82204843C72E3245F49982DA6D9305.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.05.16-18.00.16:688][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 7.19 sec)
+[2024.05.16-18.00.16:693][ 12]AssetCheck: New page: Asset Save: BP_Runner
+[2024.05.16-18.00.16:693][ 12]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2024.05.16-18.00.21:053][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.00.21:123][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.05.16-18.00.21:146][269]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.05.16-18.00.21:146][269]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/BP_Runner975D486946369F9BFFEB4EA315B06E32.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.05.16-18.00.21:155][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 7.29 sec)
+[2024.05.16-18.00.21:161][269]AssetCheck: New page: Asset Save: BP_Runner
+[2024.05.16-18.00.21:161][269]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2024.05.16-18.00.21:289][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.00.21:360][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.05.16-18.00.21:383][277]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.05.16-18.00.21:383][277]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/BP_Runner7235C87B4BB80F2C0EBF708F497B6D3A.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.05.16-18.00.21:393][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 7.39 sec)
+[2024.05.16-18.00.21:398][277]AssetCheck: New page: Asset Save: BP_Runner
+[2024.05.16-18.00.21:398][277]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2024.05.16-18.00.21:443][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.00.21:513][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.05.16-18.00.21:536][280]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.05.16-18.00.21:536][280]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/BP_RunnerA48BE124493E7419E4A79EABFD706159.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.05.16-18.00.21:543][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 7.49 sec)
+[2024.05.16-18.00.21:549][280]AssetCheck: New page: Asset Save: BP_Runner
+[2024.05.16-18.00.21:549][280]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2024.05.16-18.00.22:221][320]BlueprintLog: New page: Compile BP_Runner
+[2024.05.16-18.00.22:315][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.05.16-18.00.32:333][449]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.16-18.00.32:338][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.16-18.00.32:338][449]PIE: New page: PIE session: PlayableRunnerMap (17 May 2024, 00:00:32)
+[2024.05.16-18.00.32:338][449]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.00.32:339][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001773s)
+[2024.05.16-18.00.32:339][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/PlayableRunnerMap.PlayableRunnerMap to /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap (0.001803s)
+[2024.05.16-18.00.32:340][449]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-18.00.32:340][449]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-18.00.32:340][449]LogAIModule: Creating AISystem for world PlayableRunnerMap
+[2024.05.16-18.00.32:340][449]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2024.05.16-18.00.32:364][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.16-18.00.32:365][449]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.05.16-18.00.32:365][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-18.00.32:365][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-18.00.32:365][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-18.00.32:365][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-18.00.32:365][449]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-18.00.32:365][449]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.16-18.00.32:365][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-18.00.32:365][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-18.00.32:365][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-18.00.32:365][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-18.00.32:365][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-18.00.32:368][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-18.00.32:384][449]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.05.16-18.00.32:385][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-18.00.32:385][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-18.00.32:385][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-18.00.32:386][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.05.16-18.00.32:386][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=28
+[2024.05.16-18.00.32:388][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.05.16-18.00.32:388][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.05.16-18.00.32:388][449]LogInit: FAudioDevice initialized with ID 28.
+[2024.05.16-18.00.32:388][449]LogAudio: Display: Audio Device (ID: 28) registered with world 'PlayableRunnerMap'.
+[2024.05.16-18.00.32:388][449]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.05.16-18.00.32:390][449]LogLoad: Game class is 'GM_Runner_C'
+[2024.05.16-18.00.32:391][449]LogWorld: Bringing World /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap up for play (max tick rate 60) at 2024.05.16-21.00.32
+[2024.05.16-18.00.32:392][449]LogBlueprintUserMessages: [AIC_Runner_C_0] BP_Runner
+[2024.05.16-18.00.32:392][449]LogWorld: Bringing up level for play took: 0.001345
+[2024.05.16-18.00.32:393][449]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.05.16-18.00.32:394][449]PIE: Server logged in
+[2024.05.16-18.00.32:395][449]PIE: Play in editor total start time 0.058 seconds.
+[2024.05.16-18.00.34:053][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.00.34:054][545]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.00.34:054][545]LogWorld: UWorld::CleanupWorld for PlayableRunnerMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.00.34:054][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.00.34:076][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-18.00.34:080][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.00.34:103][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.16-18.00.34:103][545]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.05.16-18.00.34:103][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.05.16-18.00.34:105][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.05.16-18.00.34:108][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.00.34:110][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.16-18.00.34:146][546]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.05.16-18.01.06:739][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.01.06:810][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.01.06:814][557]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.01.06:814][557]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerCB29B9A24A0D2D0B856F0890A731A72F.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.01.06:821][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 7.57 sec)
+[2024.05.16-18.01.06:826][557]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.01.06:826][557]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.01.40:340][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.01.40:418][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.01.40:422][936]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.01.40:423][936]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerC70A9E7849E94A89AD335C842C27D35F.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.01.40:429][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 7.66 sec)
+[2024.05.16-18.01.40:434][936]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.01.40:434][936]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.03.59:649][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.03.59:723][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.03.59:728][774]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.03.59:728][774]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_Runner2FF5BC364839A7056FA388BEA6496A68.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.03.59:737][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 7.75 sec)
+[2024.05.16-18.03.59:743][774]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.03.59:743][774]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.04.17:702][432]BlueprintLog: New page: Compile AIC_Runner
+[2024.05.16-18.04.17:753][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.05.16-18.04.32:976][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.04.33:064][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.04.33:070][960]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.04.33:070][960]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerA3BF9E7B4EF2E3854EBD8182239E3C79.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.04.33:078][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 7.85 sec)
+[2024.05.16-18.04.33:088][960]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.04.33:088][960]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.04.45:996][ 51]BlueprintLog: New page: Compile AIC_Runner
+[2024.05.16-18.04.46:043][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.05.16-18.04.47:631][141]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.16-18.04.47:635][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.16-18.04.47:635][141]PIE: New page: PIE session: PlayableRunnerMap (17 May 2024, 00:04:47)
+[2024.05.16-18.04.47:636][141]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.04.47:638][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001884s)
+[2024.05.16-18.04.47:638][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/PlayableRunnerMap.PlayableRunnerMap to /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap (0.001922s)
+[2024.05.16-18.04.47:638][141]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-18.04.47:638][141]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-18.04.47:638][141]LogAIModule: Creating AISystem for world PlayableRunnerMap
+[2024.05.16-18.04.47:639][141]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2024.05.16-18.04.47:662][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.16-18.04.47:663][141]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.05.16-18.04.47:663][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-18.04.47:663][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-18.04.47:663][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-18.04.47:663][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-18.04.47:663][141]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-18.04.47:663][141]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.16-18.04.47:663][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-18.04.47:663][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-18.04.47:664][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-18.04.47:664][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-18.04.47:664][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-18.04.47:666][141]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-18.04.47:683][141]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.05.16-18.04.47:683][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-18.04.47:683][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-18.04.47:683][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-18.04.47:684][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.05.16-18.04.47:684][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=29
+[2024.05.16-18.04.47:686][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.05.16-18.04.47:686][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.05.16-18.04.47:686][141]LogInit: FAudioDevice initialized with ID 29.
+[2024.05.16-18.04.47:686][141]LogAudio: Display: Audio Device (ID: 29) registered with world 'PlayableRunnerMap'.
+[2024.05.16-18.04.47:686][141]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.05.16-18.04.47:688][141]LogLoad: Game class is 'GM_Runner_C'
+[2024.05.16-18.04.47:689][141]LogWorld: Bringing World /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap up for play (max tick rate 60) at 2024.05.16-21.04.47
+[2024.05.16-18.04.47:690][141]LogWorld: Bringing up level for play took: 0.001127
+[2024.05.16-18.04.47:691][141]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.05.16-18.04.47:693][141]PIE: Server logged in
+[2024.05.16-18.04.47:693][141]PIE: Play in editor total start time 0.057 seconds.
+[2024.05.16-18.05.05:414][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.05.05:414][200]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.05.05:414][200]LogWorld: UWorld::CleanupWorld for PlayableRunnerMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.05.05:414][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.05.05:437][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-18.05.05:441][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.05.05:463][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.16-18.05.05:463][200]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.05.16-18.05.05:463][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.05.16-18.05.05:466][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.05.16-18.05.05:469][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.05.05:471][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.05.16-18.05.05:494][201]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.05.16-18.05.38:903][677]LogViewport: Scene viewport resized to 986x594, mode Windowed.
+[2024.05.16-18.05.38:952][678]LogViewport: Scene viewport resized to 986x578, mode Windowed.
+[2024.05.16-18.05.39:043][679]LogViewport: Scene viewport resized to 986x570, mode Windowed.
+[2024.05.16-18.06.09:716][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.06.09:788][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.06.09:793][245]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.06.09:793][245]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerAF7FEA694300A771A1A943B7FD0ABC59.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.06.09:800][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 7.93 sec)
+[2024.05.16-18.06.09:806][245]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.06.09:806][245]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.06.10:677][298]BlueprintLog: New page: Compile AIC_Runner
+[2024.05.16-18.06.10:722][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.05.16-18.06.31:691][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.06.31:752][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.06.31:757][186]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.06.31:757][186]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_Runner2FBB6F15468D58AC1039F493B0080591.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.06.31:763][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 8.01 sec)
+[2024.05.16-18.06.31:770][186]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.06.31:770][186]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.06.33:184][270]BlueprintLog: New page: Compile AIC_Runner
+[2024.05.16-18.06.33:229][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.05.16-18.06.47:849][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.06.47:916][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.06.47:921][514]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.06.47:922][514]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerEDAF5FDB4D320DE601E44F99947906AC.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.06.47:929][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 8.09 sec)
+[2024.05.16-18.06.47:936][514]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.06.47:936][514]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.06.49:181][588]BlueprintLog: New page: Compile AIC_Runner
+[2024.05.16-18.06.49:225][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.05.16-18.06.51:366][715]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.16-18.06.51:371][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.16-18.06.51:371][715]PIE: New page: PIE session: PlayableRunnerMap (17 May 2024, 00:06:51)
+[2024.05.16-18.06.51:371][715]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.06.51:373][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001842s)
+[2024.05.16-18.06.51:373][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/PlayableRunnerMap.PlayableRunnerMap to /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap (0.001900s)
+[2024.05.16-18.06.51:373][715]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-18.06.51:373][715]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-18.06.51:373][715]LogAIModule: Creating AISystem for world PlayableRunnerMap
+[2024.05.16-18.06.51:374][715]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2024.05.16-18.06.51:395][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.16-18.06.51:397][715]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.05.16-18.06.51:397][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-18.06.51:397][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-18.06.51:397][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-18.06.51:397][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-18.06.51:397][715]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-18.06.51:397][715]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.16-18.06.51:397][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-18.06.51:397][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-18.06.51:397][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-18.06.51:397][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-18.06.51:397][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-18.06.51:400][715]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-18.06.51:417][715]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.05.16-18.06.51:417][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-18.06.51:417][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-18.06.51:417][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-18.06.51:418][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.05.16-18.06.51:418][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=30
+[2024.05.16-18.06.51:419][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.05.16-18.06.51:419][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.05.16-18.06.51:419][715]LogInit: FAudioDevice initialized with ID 30.
+[2024.05.16-18.06.51:419][715]LogAudio: Display: Audio Device (ID: 30) registered with world 'PlayableRunnerMap'.
+[2024.05.16-18.06.51:420][715]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.05.16-18.06.51:422][715]LogLoad: Game class is 'GM_Runner_C'
+[2024.05.16-18.06.51:423][715]LogWorld: Bringing World /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap up for play (max tick rate 60) at 2024.05.16-21.06.51
+[2024.05.16-18.06.51:423][715]LogWorld: Bringing up level for play took: 0.001092
+[2024.05.16-18.06.51:425][715]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.05.16-18.06.51:427][715]PIE: Server logged in
+[2024.05.16-18.06.51:427][715]PIE: Play in editor total start time 0.057 seconds.
+[2024.05.16-18.06.55:894][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.06.55:894][980]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.06.55:894][980]LogWorld: UWorld::CleanupWorld for PlayableRunnerMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.06.55:894][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.06.55:919][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-18.06.55:923][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.06.55:946][980]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.16-18.06.55:946][980]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.05.16-18.06.55:946][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.05.16-18.06.55:947][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.05.16-18.06.55:950][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.06.55:953][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.16-18.06.55:989][981]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.05.16-18.07.04:773][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.07.04:851][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.07.04:857][436]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.07.04:857][436]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_Runner1704C6EF4DAD704C999CBB8F37075D32.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.07.04:865][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 8.18 sec)
+[2024.05.16-18.07.04:870][436]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.07.04:870][436]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.07.51:710][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.07.51:784][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.07.51:791][632]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.07.51:791][632]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerDD90CB92421F063BADBBE0A79519F9FB.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.07.51:798][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 8.27 sec)
+[2024.05.16-18.07.51:805][632]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.07.51:805][632]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.07.56:012][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.07.56:086][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.07.56:093][885]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.07.56:093][885]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerEEF2FACC43F2D2622D094AA566227C5D.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.07.56:101][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 8.36 sec)
+[2024.05.16-18.07.56:110][885]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.07.56:110][885]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.07.58:301][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.07.58:371][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.07.58:377][ 17]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.07.58:377][ 17]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerE3106A404DE41D2B34E6DBB2D21FF2E1.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.07.58:385][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 8.44 sec)
+[2024.05.16-18.07.58:391][ 17]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.07.58:391][ 17]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.07.59:629][ 92]BlueprintLog: New page: Compile AIC_Runner
+[2024.05.16-18.07.59:677][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.05.16-18.08.08:043][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.16-18.08.08:065][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.16-18.08.08:850][511]LogSlate: Window 'Save Content' being destroyed
+[2024.05.16-18.08.08:859][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.08.08:929][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/PlayableRunnerMap" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Level/PlayableRunnerMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.16-18.08.08:952][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.16-18.08.08:957][511]LogSavePackage: Moving output files for package: /Game/Level/PlayableRunnerMap
+[2024.05.16-18.08.08:957][511]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/PlayableRunnerMap2C51468243E8BEB539B607AA4F227649.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Level/PlayableRunnerMap.umap'
+[2024.05.16-18.08.08:965][511]LogFileHelpers: Saving map 'PlayableRunnerMap' took 0.035
+[2024.05.16-18.08.08:974][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 8.56 sec)
+[2024.05.16-18.08.08:980][511]AssetCheck: New page: Asset Save: PlayableRunnerMap
+[2024.05.16-18.08.08:980][511]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/PlayableRunnerMap.PlayableRunnerMap
+[2024.05.16-18.08.10:052][574]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.16-18.08.10:057][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.16-18.08.10:057][574]PIE: New page: PIE session: PlayableRunnerMap (17 May 2024, 00:08:10)
+[2024.05.16-18.08.10:058][574]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.08.10:059][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001958s)
+[2024.05.16-18.08.10:059][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/PlayableRunnerMap.PlayableRunnerMap to /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap (0.002030s)
+[2024.05.16-18.08.10:060][574]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-18.08.10:060][574]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-18.08.10:060][574]LogAIModule: Creating AISystem for world PlayableRunnerMap
+[2024.05.16-18.08.10:060][574]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2024.05.16-18.08.10:082][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.05.16-18.08.10:083][574]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.05.16-18.08.10:083][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-18.08.10:083][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-18.08.10:083][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-18.08.10:083][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-18.08.10:083][574]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-18.08.10:083][574]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.16-18.08.10:083][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-18.08.10:083][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-18.08.10:083][574]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-18.08.10:083][574]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-18.08.10:083][574]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-18.08.10:085][574]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-18.08.10:102][574]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.05.16-18.08.10:102][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-18.08.10:102][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-18.08.10:102][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-18.08.10:103][574]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.05.16-18.08.10:103][574]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=31
+[2024.05.16-18.08.10:104][574]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.05.16-18.08.10:104][574]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.05.16-18.08.10:104][574]LogInit: FAudioDevice initialized with ID 31.
+[2024.05.16-18.08.10:104][574]LogAudio: Display: Audio Device (ID: 31) registered with world 'PlayableRunnerMap'.
+[2024.05.16-18.08.10:104][574]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.05.16-18.08.10:107][574]LogLoad: Game class is 'GM_Runner_C'
+[2024.05.16-18.08.10:108][574]LogWorld: Bringing World /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap up for play (max tick rate 60) at 2024.05.16-21.08.10
+[2024.05.16-18.08.10:108][574]LogWorld: Bringing up level for play took: 0.001085
+[2024.05.16-18.08.10:110][574]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.05.16-18.08.10:111][574]LogScript: Warning: Script Msg: AIC_Runner_C_0 SimulateInput SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.05.16-18.08.10:111][574]LogScript: Warning: Script Msg called by: AIC_Runner_C /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap:PersistentLevel.AIC_Runner_C_0
+[2024.05.16-18.08.10:111][574]PIE: Server logged in
+[2024.05.16-18.08.10:112][574]PIE: Play in editor total start time 0.054 seconds.
+[2024.05.16-18.08.14:144][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.08.14:144][813]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.08.14:144][813]LogWorld: UWorld::CleanupWorld for PlayableRunnerMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.08.14:144][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.08.14:170][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-18.08.14:174][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.08.14:194][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.08.14:195][813]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.05.16-18.08.14:195][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.05.16-18.08.14:197][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.05.16-18.08.14:202][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.16-18.08.14:235][814]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.05.16-18.08.34:285][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.08.34:361][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.08.34:368][667]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.08.34:368][667]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_Runner49CC980043406E62B355FABB85B479B2.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.08.34:375][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 8.65 sec)
+[2024.05.16-18.08.34:381][667]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.08.34:381][667]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.08.34:539][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.08.34:603][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.08.34:610][676]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.08.34:610][676]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_Runner03C24C5E4177956B1712AA861B79BA46.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.08.34:618][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 8.72 sec)
+[2024.05.16-18.08.34:623][676]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.08.34:623][676]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.08.34:649][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.08.34:716][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.08.34:722][678]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.08.34:723][678]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_Runner3046C76B49752240CDE977A09EFAAE39.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.08.34:728][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 8.80 sec)
+[2024.05.16-18.08.34:733][678]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.08.34:733][678]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.08.40:043][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.08.40:113][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.08.40:119][997]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.08.40:119][997]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_Runner0E65B26A4AD8A38535B2E48013F82C82.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.08.40:128][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 8.89 sec)
+[2024.05.16-18.08.40:133][997]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.08.40:133][997]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.08.41:757][ 94]BlueprintLog: New page: Compile AIC_Runner
+[2024.05.16-18.08.41:802][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.05.16-18.08.43:403][179]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.16-18.08.43:408][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.16-18.08.43:408][179]PIE: New page: PIE session: PlayableRunnerMap (17 May 2024, 00:08:43)
+[2024.05.16-18.08.43:408][179]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.08.43:410][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001883s)
+[2024.05.16-18.08.43:410][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/PlayableRunnerMap.PlayableRunnerMap to /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap (0.001913s)
+[2024.05.16-18.08.43:410][179]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-18.08.43:410][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-18.08.43:411][179]LogAIModule: Creating AISystem for world PlayableRunnerMap
+[2024.05.16-18.08.43:411][179]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2024.05.16-18.08.43:435][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.05.16-18.08.43:436][179]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.05.16-18.08.43:436][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-18.08.43:436][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-18.08.43:436][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-18.08.43:436][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-18.08.43:436][179]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-18.08.43:436][179]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.16-18.08.43:436][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-18.08.43:436][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-18.08.43:437][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-18.08.43:437][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-18.08.43:437][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-18.08.43:438][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-18.08.43:455][179]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.05.16-18.08.43:456][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-18.08.43:456][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-18.08.43:456][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-18.08.43:457][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.05.16-18.08.43:457][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=32
+[2024.05.16-18.08.43:458][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.05.16-18.08.43:458][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.05.16-18.08.43:458][179]LogInit: FAudioDevice initialized with ID 32.
+[2024.05.16-18.08.43:458][179]LogAudio: Display: Audio Device (ID: 32) registered with world 'PlayableRunnerMap'.
+[2024.05.16-18.08.43:458][179]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.05.16-18.08.43:460][179]LogLoad: Game class is 'GM_Runner_C'
+[2024.05.16-18.08.43:461][179]LogWorld: Bringing World /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap up for play (max tick rate 60) at 2024.05.16-21.08.43
+[2024.05.16-18.08.43:461][179]LogWorld: Bringing up level for play took: 0.001036
+[2024.05.16-18.08.43:463][179]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.05.16-18.08.43:465][179]PIE: Server logged in
+[2024.05.16-18.08.43:465][179]PIE: Play in editor total start time 0.057 seconds.
+[2024.05.16-18.09.03:685][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.09.03:685][389]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.09.03:685][389]LogWorld: UWorld::CleanupWorld for PlayableRunnerMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.09.03:685][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.09.03:713][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-18.09.03:716][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.09.03:739][389]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.16-18.09.03:739][389]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.05.16-18.09.03:739][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.05.16-18.09.03:740][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.05.16-18.09.03:743][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.09.03:745][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.05.16-18.09.03:779][390]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.05.16-18.10.23:208][228]LogEditorTransaction: Undo Move Node
+[2024.05.16-18.10.35:577][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.10.35:642][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.10.35:648][954]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.10.35:648][954]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_Runner943EEAF34EC7A7DCE3AC75BF6CB55FDE.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.10.35:656][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 8.97 sec)
+[2024.05.16-18.10.35:662][954]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.10.35:662][954]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.10.36:461][  1]BlueprintLog: New page: Compile AIC_Runner
+[2024.05.16-18.10.36:504][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.16-18.10.38:996][139]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.16-18.10.39:001][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.16-18.10.39:001][139]PIE: New page: PIE session: PlayableRunnerMap (17 May 2024, 00:10:39)
+[2024.05.16-18.10.39:023][139]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.10.39:025][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001791s)
+[2024.05.16-18.10.39:025][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/PlayableRunnerMap.PlayableRunnerMap to /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap (0.001826s)
+[2024.05.16-18.10.39:025][139]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-18.10.39:025][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-18.10.39:025][139]LogAIModule: Creating AISystem for world PlayableRunnerMap
+[2024.05.16-18.10.39:025][139]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2024.05.16-18.10.39:049][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.16-18.10.39:050][139]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.05.16-18.10.39:050][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-18.10.39:050][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-18.10.39:050][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-18.10.39:050][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-18.10.39:050][139]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-18.10.39:050][139]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.16-18.10.39:050][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-18.10.39:050][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-18.10.39:050][139]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-18.10.39:050][139]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-18.10.39:050][139]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-18.10.39:052][139]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-18.10.39:070][139]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.05.16-18.10.39:070][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-18.10.39:070][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-18.10.39:070][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-18.10.39:071][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.05.16-18.10.39:071][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=33
+[2024.05.16-18.10.39:073][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.05.16-18.10.39:073][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.05.16-18.10.39:073][139]LogInit: FAudioDevice initialized with ID 33.
+[2024.05.16-18.10.39:073][139]LogAudio: Display: Audio Device (ID: 33) registered with world 'PlayableRunnerMap'.
+[2024.05.16-18.10.39:073][139]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.05.16-18.10.39:074][139]LogLoad: Game class is 'GM_Runner_C'
+[2024.05.16-18.10.39:075][139]LogWorld: Bringing World /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap up for play (max tick rate 60) at 2024.05.16-21.10.39
+[2024.05.16-18.10.39:076][139]LogWorld: Bringing up level for play took: 0.001119
+[2024.05.16-18.10.39:078][139]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.05.16-18.10.39:079][139]PIE: Server logged in
+[2024.05.16-18.10.39:080][139]PIE: Play in editor total start time 0.079 seconds.
+[2024.05.16-18.10.58:445][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.10.58:445][297]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.10.58:445][297]LogWorld: UWorld::CleanupWorld for PlayableRunnerMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.10.58:445][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.10.58:472][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-18.10.58:475][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.10.58:498][297]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.16-18.10.58:498][297]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.05.16-18.10.58:498][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.05.16-18.10.58:500][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.05.16-18.10.58:503][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.10.58:505][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.05.16-18.10.58:542][298]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.05.16-18.11.00:071][389]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.16-18.11.00:076][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.16-18.11.00:076][389]PIE: New page: PIE session: PlayableRunnerMap (17 May 2024, 00:11:00)
+[2024.05.16-18.11.00:104][389]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.11.00:106][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001722s)
+[2024.05.16-18.11.00:106][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/PlayableRunnerMap.PlayableRunnerMap to /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap (0.001755s)
+[2024.05.16-18.11.00:106][389]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-18.11.00:106][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-18.11.00:107][389]LogAIModule: Creating AISystem for world PlayableRunnerMap
+[2024.05.16-18.11.00:107][389]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2024.05.16-18.11.00:129][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.05.16-18.11.00:130][389]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.05.16-18.11.00:131][389]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-18.11.00:131][389]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-18.11.00:131][389]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-18.11.00:131][389]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-18.11.00:131][389]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-18.11.00:131][389]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.16-18.11.00:131][389]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-18.11.00:131][389]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-18.11.00:131][389]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-18.11.00:131][389]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-18.11.00:131][389]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-18.11.00:133][389]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-18.11.00:150][389]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.05.16-18.11.00:150][389]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-18.11.00:150][389]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-18.11.00:150][389]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-18.11.00:151][389]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.05.16-18.11.00:151][389]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=34
+[2024.05.16-18.11.00:153][389]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.05.16-18.11.00:153][389]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.05.16-18.11.00:153][389]LogInit: FAudioDevice initialized with ID 34.
+[2024.05.16-18.11.00:153][389]LogAudio: Display: Audio Device (ID: 34) registered with world 'PlayableRunnerMap'.
+[2024.05.16-18.11.00:153][389]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.05.16-18.11.00:155][389]LogLoad: Game class is 'GM_Runner_C'
+[2024.05.16-18.11.00:156][389]LogWorld: Bringing World /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap up for play (max tick rate 60) at 2024.05.16-21.11.00
+[2024.05.16-18.11.00:157][389]LogWorld: Bringing up level for play took: 0.001064
+[2024.05.16-18.11.00:158][389]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.05.16-18.11.00:159][389]PIE: Server logged in
+[2024.05.16-18.11.00:160][389]PIE: Play in editor total start time 0.085 seconds.
+[2024.05.16-18.11.24:125][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.11.24:125][823]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.11.24:125][823]LogWorld: UWorld::CleanupWorld for PlayableRunnerMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.11.24:125][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.11.24:131][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-18.11.24:135][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.11.24:159][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.11.24:159][823]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.05.16-18.11.24:159][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.05.16-18.11.24:161][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.05.16-18.11.24:166][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.16-18.11.24:198][824]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.05.16-18.11.50:900][103]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.16-18.11.51:984][168]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.16-18.11.52:856][220]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.16-18.11.53:171][237]LogViewport: Scene viewport resized to 345x282, mode Windowed.
+[2024.05.16-18.12.38:239][559]BlueprintLog: New page: Collapse to Function
+[2024.05.16-18.12.56:797][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.12.56:872][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.12.56:878][666]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.12.56:878][666]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_RunnerFF55ACBB41669AABF72F5F91F456434E.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.12.56:886][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 9.06 sec)
+[2024.05.16-18.12.56:893][666]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.12.56:893][666]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.13.30:325][294]BlueprintLog: New page: Compile AIC_Runner
+[2024.05.16-18.13.30:371][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.16-18.13.34:625][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.16-18.13.35:803][545]LogSlate: Window 'Save Content' being destroyed
+[2024.05.16-18.13.35:811][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-18.13.35:889][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/AIC_Runner" FILE="D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset" SILENT=true
+[2024.05.16-18.13.35:897][545]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIC_Runner
+[2024.05.16-18.13.35:897][545]LogSavePackage: Moving 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Saved/AIC_Runner3E2E18C741C83345B86697B66DB9D3E6.tmp' to 'D:/UnrealEngineProjects/SmashRunner/SmashRunner/Content/Blueprints/AI/AIC_Runner.uasset'
+[2024.05.16-18.13.35:906][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 9.15 sec)
+[2024.05.16-18.13.35:913][545]AssetCheck: New page: Asset Save: AIC_Runner
+[2024.05.16-18.13.35:913][545]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/AIC_Runner.AIC_Runner
+[2024.05.16-18.13.38:112][673]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.16-18.13.38:118][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.16-18.13.38:118][673]PIE: New page: PIE session: PlayableRunnerMap (17 May 2024, 00:13:38)
+[2024.05.16-18.13.38:118][673]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.13.38:120][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002015s)
+[2024.05.16-18.13.38:120][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/PlayableRunnerMap.PlayableRunnerMap to /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap (0.002047s)
+[2024.05.16-18.13.38:121][673]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-18.13.38:121][673]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-18.13.38:121][673]LogAIModule: Creating AISystem for world PlayableRunnerMap
+[2024.05.16-18.13.38:121][673]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2024.05.16-18.13.38:145][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.05.16-18.13.38:147][673]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.05.16-18.13.38:147][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-18.13.38:147][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-18.13.38:147][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-18.13.38:147][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-18.13.38:147][673]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-18.13.38:147][673]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.16-18.13.38:147][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-18.13.38:147][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-18.13.38:148][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-18.13.38:148][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-18.13.38:148][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-18.13.38:150][673]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-18.13.38:167][673]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.05.16-18.13.38:167][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-18.13.38:167][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-18.13.38:167][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-18.13.38:168][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.05.16-18.13.38:168][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=35
+[2024.05.16-18.13.38:170][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.05.16-18.13.38:170][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.05.16-18.13.38:170][673]LogInit: FAudioDevice initialized with ID 35.
+[2024.05.16-18.13.38:170][673]LogAudio: Display: Audio Device (ID: 35) registered with world 'PlayableRunnerMap'.
+[2024.05.16-18.13.38:170][673]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.05.16-18.13.38:173][673]LogLoad: Game class is 'GM_Runner_C'
+[2024.05.16-18.13.38:174][673]LogWorld: Bringing World /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap up for play (max tick rate 60) at 2024.05.16-21.13.38
+[2024.05.16-18.13.38:174][673]LogWorld: Bringing up level for play took: 0.001125
+[2024.05.16-18.13.38:177][673]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.05.16-18.13.38:177][673]PIE: Server logged in
+[2024.05.16-18.13.38:178][673]PIE: Play in editor total start time 0.061 seconds.
+[2024.05.16-18.13.48:455][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.13.48:455][284]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.13.48:455][284]LogWorld: UWorld::CleanupWorld for PlayableRunnerMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.13.48:455][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.13.48:485][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-18.13.48:490][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.13.48:514][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.13.48:514][284]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.05.16-18.13.48:514][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.05.16-18.13.48:517][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.05.16-18.13.48:524][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.16-18.13.48:599][285]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.05.16-18.13.48:607][285]LogViewport: Scene viewport resized to 345x282, mode Windowed.
+[2024.05.16-18.13.49:520][339]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.16-18.13.49:527][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.16-18.13.49:527][339]PIE: New page: PIE session: PlayableRunnerMap (17 May 2024, 00:13:49)
+[2024.05.16-18.13.49:553][339]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.13.49:556][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002133s)
+[2024.05.16-18.13.49:556][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/PlayableRunnerMap.PlayableRunnerMap to /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap (0.002198s)
+[2024.05.16-18.13.49:556][339]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-18.13.49:556][339]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-18.13.49:557][339]LogAIModule: Creating AISystem for world PlayableRunnerMap
+[2024.05.16-18.13.49:557][339]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2024.05.16-18.13.49:582][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.16-18.13.49:583][339]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.05.16-18.13.49:583][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-18.13.49:583][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-18.13.49:583][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-18.13.49:583][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-18.13.49:583][339]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-18.13.49:583][339]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.16-18.13.49:583][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-18.13.49:583][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-18.13.49:583][339]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-18.13.49:583][339]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-18.13.49:583][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-18.13.49:585][339]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-18.13.49:606][339]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.05.16-18.13.49:606][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-18.13.49:606][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-18.13.49:606][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-18.13.49:608][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.05.16-18.13.49:608][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=36
+[2024.05.16-18.13.49:609][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.05.16-18.13.49:609][339]LogInit: FAudioDevice initialized with ID 36.
+[2024.05.16-18.13.49:609][339]LogAudio: Display: Audio Device (ID: 36) registered with world 'PlayableRunnerMap'.
+[2024.05.16-18.13.49:609][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.05.16-18.13.49:609][339]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.05.16-18.13.49:611][339]LogLoad: Game class is 'GM_Runner_C'
+[2024.05.16-18.13.49:613][339]LogWorld: Bringing World /Game/Level/UEDPIE_0_PlayableRunnerMap.PlayableRunnerMap up for play (max tick rate 60) at 2024.05.16-21.13.49
+[2024.05.16-18.13.49:613][339]LogWorld: Bringing up level for play took: 0.001078
+[2024.05.16-18.13.49:615][339]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.05.16-18.13.49:616][339]PIE: Server logged in
+[2024.05.16-18.13.49:617][339]PIE: Play in editor total start time 0.09 seconds.
+[2024.05.16-18.14.09:684][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.14.09:684][538]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_PlayableRunnerMap
+[2024.05.16-18.14.09:684][538]LogWorld: UWorld::CleanupWorld for PlayableRunnerMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.14.09:684][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.14.09:691][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-18.14.09:695][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.14.09:716][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-18.14.09:716][538]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.05.16-18.14.09:717][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.05.16-18.14.09:719][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.05.16-18.14.09:723][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.05.16-18.14.09:789][539]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.05.16-18.14.09:797][539]LogViewport: Scene viewport resized to 345x282, mode Windowed.
+[2024.05.16-18.21.44:750][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.05.16-18.21.44:752][994]LogStall: Shutdown...
+[2024.05.16-18.21.44:756][994]LogStall: Shutdown complete.
+[2024.05.16-18.21.44:793][994]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.21.44:793][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.21.44:877][994]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.16-18.21.44:877][994]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.21.44:877][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.21.44:950][994]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.16-18.21.44:950][994]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.21.44:950][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.21.44:992][994]LogSlate: Window 'SmashRunner - Unreal Editor' being destroyed
+[2024.05.16-18.21.45:115][995]Cmd: QUIT_EDITOR
+[2024.05.16-18.21.45:115][995]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.16-18.21.45:123][995]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.16-18.21.45:123][995]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.16-18.21.45:123][995]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.16-18.21.45:123][995]LogWorld: UWorld::CleanupWorld for PlayableRunnerMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.21.45:123][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-18.21.45:125][995]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.05.16-18.21.45:125][995]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.16-18.21.45:518][995]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.16-18.21.45:518][995]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.16-18.21.45:519][995]LogAudio: Display: Audio Device unregistered from world 'PlayableRunnerMap'.
+[2024.05.16-18.21.45:519][995]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.05.16-18.21.45:519][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.16-18.21.45:521][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.16-18.21.45:560][995]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.16-18.21.45:564][995]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.16-18.21.45:564][995]LogExit: Preparing to exit.
+[2024.05.16-18.21.45:597][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.05.16-18.21.45:606][995]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:606][995]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:610][995]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:610][995]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:610][995]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:610][995]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:610][995]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:610][995]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:610][995]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:610][995]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:611][995]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:611][995]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:611][995]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:611][995]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:611][995]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:611][995]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:611][995]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:611][995]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.45:611][995]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.16-18.21.46:191][995]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.21.46:192][995]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-18.21.46:252][995]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.05.16-18.21.46:339][995]LogExit: Editor shut down
+[2024.05.16-18.21.46:344][995]LogExit: Transaction tracking system shut down
+[2024.05.16-18.21.46:546][995]LogExit: Object subsystem successfully closed.
+[2024.05.16-18.21.46:552][995]LogShaderCompilers: Display: ================================================
+[2024.05.16-18.21.46:552][995]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.16-18.21.46:552][995]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.05.16-18.21.46:552][995]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.05.16-18.21.46:552][995]LogShaderCompilers: Display: RAM used: 240.00 B of 819.20 MiB budget. Usage: 0.00%
+[2024.05.16-18.21.46:552][995]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.16-18.21.46:552][995]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.16-18.21.46:552][995]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.05.16-18.21.46:553][995]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.16-18.21.46:553][995]LogShaderCompilers: Display: ================================================
+[2024.05.16-18.21.46:650][995]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.05.16-18.21.46:683][995]LogVirtualization: UE::Virtualization was shutdown
+[2024.05.16-18.21.46:720][995]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (1035)
+[2024.05.16-18.21.46:720][995]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1033)
+[2024.05.16-18.21.46:720][995]LogModuleManager: Shutting down and abandoning module Voice (1031)
+[2024.05.16-18.21.46:720][995]LogModuleManager: Shutting down and abandoning module TextureEditor (1029)
+[2024.05.16-18.21.46:720][995]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1027)
+[2024.05.16-18.21.46:720][995]LogModuleManager: Shutting down and abandoning module AddContentDialog (1025)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1024)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (1021)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module SceneOutliner (1019)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1017)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module StatusBar (1015)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1013)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1011)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module StatsViewer (1009)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1007)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module AutomationWorker (1005)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module RiderLC (1003)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module RiderShaderInfo (1001)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module SmartSnapping (999)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module PlanarCut (997)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module FractureEngine (995)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module CharacterAI (993)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (991)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module TextureAlignMode (989)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module BspMode (987)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module GeometryMode (985)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (983)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (981)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (979)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (977)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (975)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (973)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module WebMMedia (971)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (969)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (967)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (965)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (963)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (961)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (959)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (957)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (955)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (953)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (951)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (949)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module WaveTableEditor (947)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (945)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module GooglePADEditor (943)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (941)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module SequenceRecorder (940)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (937)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module IKRigEditor (935)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module ControlRigEditor (933)
+[2024.05.16-18.21.46:721][995]LogModuleManager: Shutting down and abandoning module SessionServices (931)
+[2024.05.16-18.21.46:722][995]LogModuleManager: Shutting down and abandoning module MeshPaint (929)
+[2024.05.16-18.21.46:722][995]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (927)
+[2024.05.16-18.21.46:722][995]LogModuleManager: Shutting down and abandoning module PlacementMode (926)
+[2024.05.16-18.21.46:722][995]LogModuleManager: Shutting down and abandoning module FoliageEdit (923)
+[2024.05.16-18.21.46:722][995]LogModuleManager: Shutting down and abandoning module LandscapeEditor (921)
+[2024.05.16-18.21.46:722][995]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (919)
+[2024.05.16-18.21.46:722][995]LogModuleManager: Shutting down and abandoning module ActorPickerMode (917)
+[2024.05.16-18.21.46:722][995]LogModuleManager: Shutting down and abandoning module ViewportSnapping (915)
+[2024.05.16-18.21.46:722][995]LogModuleManager: Shutting down and abandoning module ViewportInteraction (913)
+[2024.05.16-18.21.46:722][995]LogModuleManager: Shutting down and abandoning module ClothPainter (911)
+[2024.05.16-18.21.46:722][995]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (910)
+[2024.05.16-18.21.46:722][995]LogModuleManager: Shutting down and abandoning module LogVisualizer (907)
+[2024.05.16-18.21.46:723][995]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (905)
+[2024.05.16-18.21.46:723][995]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (903)
+[2024.05.16-18.21.46:723][995]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (902)
+[2024.05.16-18.21.46:723][995]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (900)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (897)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (895)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (893)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (891)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (889)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (887)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module AnimationSettings (885)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (883)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module CSVtoSVG (881)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (879)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module EditorConfig (877)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module EditorFramework (875)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (873)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module TraceInsights (871)
+[2024.05.16-18.21.47:258][995]MemoryProfiler: Shutdown
+[2024.05.16-18.21.47:258][995]NetworkingProfiler: Shutdown
+[2024.05.16-18.21.47:258][995]LoadingProfiler: Shutdown
+[2024.05.16-18.21.47:258][995]TimingProfiler: Shutdown
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module TraceServices (870)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module TraceAnalysis (869)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (865)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (864)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module InputBindingEditor (861)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module MergeActors (859)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (857)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module LocalizationService (856)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module HardwareTargeting (853)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (851)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module UndoHistory (849)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module XmlParser (847)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module Blutility (845)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (843)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (842)
+[2024.05.16-18.21.47:258][995]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (839)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (838)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module SettingsEditor (835)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module ProjectLauncher (833)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module SessionFrontend (831)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module ProfilerClient (829)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module DeviceManager (827)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module AutomationController (825)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module AutomationWindow (823)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module Layers (821)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (819)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module DetailCustomizations (817)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module PackagesDialog (815)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (813)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module Persona (811)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (810)
+[2024.05.16-18.21.47:259][995]LogModuleManager: Shutting down and abandoning module Kismet (807)
+[2024.05.16-18.21.47:270][995]LogModuleManager: Shutting down and abandoning module KismetWidgets (806)
+[2024.05.16-18.21.47:270][995]LogModuleManager: Shutting down and abandoning module GraphEditor (803)
+[2024.05.16-18.21.47:270][995]LogModuleManager: Shutting down and abandoning module StructViewer (801)
+[2024.05.16-18.21.47:270][995]LogModuleManager: Shutting down and abandoning module ClassViewer (799)
+[2024.05.16-18.21.47:272][995]LogModuleManager: Shutting down and abandoning module NaniteTools (797)
+[2024.05.16-18.21.47:272][995]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (795)
+[2024.05.16-18.21.47:273][995]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (793)
+[2024.05.16-18.21.47:273][995]LogModuleManager: Shutting down and abandoning module SourceControlWindows (791)
+[2024.05.16-18.21.47:273][995]LogModuleManager: Shutting down and abandoning module OutputLog (789)
+[2024.05.16-18.21.47:274][995]LogModuleManager: Shutting down and abandoning module Documentation (787)
+[2024.05.16-18.21.47:274][995]LogModuleManager: Shutting down and abandoning module LiveCoding (785)
+[2024.05.16-18.21.47:289][995]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (783)
+[2024.05.16-18.21.47:289][995]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (781)
+[2024.05.16-18.21.47:289][995]LogModuleManager: Shutting down and abandoning module MovieScene (779)
+[2024.05.16-18.21.47:289][995]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (777)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (775)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (773)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module AudioMixer (772)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module AudioMixerCore (771)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module LauncherPlatform (767)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module AnalyticsET (765)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module PortalServices (763)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module PortalRpc (761)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module MessagingRpc (759)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module AIModule (757)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module GameplayDebugger (756)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module AITestSuite (754)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module NavigationSystem (752)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module DataLayerEditor (749)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module EditorWidgets (748)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (745)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (743)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module TypedElementFramework (741)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (739)
+[2024.05.16-18.21.47:290][995]LogModuleManager: Shutting down and abandoning module ProfilerService (737)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (735)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (733)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (731)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (729)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (727)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module TakesCore (725)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module MegascansPlugin (723)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module Bridge (721)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module RiderGameControl (719)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module RiderBlueprint (717)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module LightMixer (715)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (713)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (711)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (709)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (707)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module CollectionManager (706)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (703)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module InterchangeTests (701)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (699)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (697)
+[2024.05.16-18.21.47:306][995]LogModuleManager: Shutting down and abandoning module Paper2DEditor (695)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (693)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module UVEditorTools (691)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module UVEditor (689)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module PresetAsset (687)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (685)
+[2024.05.16-18.21.47:307][995]LogOpenImageDenoise: OIDN shutting down
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (683)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (681)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (679)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (677)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module MeshLODToolset (675)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (673)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (671)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (669)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (667)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (665)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (664)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (662)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (659)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module DataflowNodes (657)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (655)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module DataflowEditor (653)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (651)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (649)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module ChaosNiagara (647)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (645)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module FractureEditor (643)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module BackChannel (641)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (639)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module AutomationUtils (637)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module AlembicImporter (635)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module AlembicLibrary (634)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (631)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (629)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (627)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module StylusInput (625)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module PluginBrowser (623)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (621)
+[2024.05.16-18.21.47:307][995]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (619)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (617)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (615)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module GLTFImporter (613)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module GLTFCore (611)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module ChangelistReview (609)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (607)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module EditorDebugTools (605)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module CurveEditorTools (603)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (601)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module CryptoKeys (599)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (597)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module TemplateSequence (595)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (593)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module SequencerScripting (591)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (589)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (587)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (585)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InterchangePipelines (583)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InterchangeExport (581)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InterchangeMessages (579)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InterchangeImport (577)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (575)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InterchangeNodes (573)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (571)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (569)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (567)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InterchangeEditor (565)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (563)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (559)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module MediaPlate (557)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module ImgMedia (555)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module MediaCompositing (553)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (551)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module UObjectPlugin (549)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (547)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (545)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (543)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module PluginUtils (541)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module GitSourceControl (539)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module DumpGPUServices (537)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (535)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (533)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module SynthesisEditor (531)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module ResonanceAudio (529)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (527)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (525)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (523)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module ModelingOperators (521)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (519)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module ModelingComponents (517)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module GeometryFramework (516)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (513)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module MeshModelingTools (511)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (509)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InputDebugging (507)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module GooglePAD (505)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module DynamicMesh (503)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (501)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (499)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module GeometryCache (497)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (495)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (493)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (491)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module AudioCapture (489)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (488)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module AssetTags (485)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (483)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (481)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module AppleImageUtils (479)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module AndroidPermission (477)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (475)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (473)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module VariantManager (471)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (470)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (467)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module TakeSequencer (465)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module TakeMovieScene (463)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module ControlRigSpline (461)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (459)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (457)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (455)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module TraceUtilities (453)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (451)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (449)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module InputEditor (447)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module BlueprintGraph (446)
+[2024.05.16-18.21.47:308][995]LogModuleManager: Shutting down and abandoning module RiderLogging (443)
+[2024.05.16-18.21.47:311][995]LogModuleManager: Shutting down and abandoning module RiderLink (441)
+[2024.05.16-18.21.47:315][995]LogModuleManager: Shutting down and abandoning module RD (439)
+[2024.05.16-18.21.47:315][995]LogModuleManager: Shutting down and abandoning module Paper2D (437)
+[2024.05.16-18.21.47:315][995]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (435)
+[2024.05.16-18.21.47:315][995]LogModuleManager: Shutting down and abandoning module PBIK (433)
+[2024.05.16-18.21.47:315][995]LogModuleManager: Shutting down and abandoning module FullBodyIK (431)
+[2024.05.16-18.21.47:315][995]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (429)
+[2024.05.16-18.21.47:315][995]LogModuleManager: Shutting down and abandoning module TakeRecorder (428)
+[2024.05.16-18.21.47:316][995]LogModuleManager: Shutting down and abandoning module ChaosCaching (425)
+[2024.05.16-18.21.47:316][995]LogModuleManager: Shutting down and abandoning module GameplayCameras (423)
+[2024.05.16-18.21.47:316][995]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (421)
+[2024.05.16-18.21.47:316][995]LogModuleManager: Shutting down and abandoning module Niagara (419)
+[2024.05.16-18.21.47:316][995]LogModuleManager: Shutting down and abandoning module NiagaraEditor (418)
+[2024.05.16-18.21.47:316][995]LogModuleManager: Shutting down and abandoning module NiagaraCore (415)
+[2024.05.16-18.21.47:316][995]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (413)
+[2024.05.16-18.21.47:316][995]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (411)
+[2024.05.16-18.21.47:316][995]LogModuleManager: Shutting down and abandoning module FacialAnimation (409)
+[2024.05.16-18.21.47:316][995]LogModuleManager: Shutting down and abandoning module DataValidation (407)
+[2024.05.16-18.21.47:316][995]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (405)
+[2024.05.16-18.21.47:316][995]LogModuleManager: Shutting down and abandoning module LevelEditor (404)
+[2024.05.16-18.21.47:320][995]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (403)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (401)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module MainFrame (399)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module HotReload (398)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module ContentBrowser (394)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module ContentBrowserData (393)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module TreeMap (390)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module ActorSequence (387)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (385)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (383)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (381)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module AnimationSharing (379)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module Synthesis (377)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module SoundFields (375)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module SignificanceManager (373)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (371)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (369)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module MetasoundEditor (367)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module ToolMenus (366)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module AudioWidgets (364)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (363)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (359)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module MetasoundEngine (357)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module WaveTable (356)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (354)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (351)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (349)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (347)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (345)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (343)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (341)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (339)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (338)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (335)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module SignalProcessing (334)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module CableComponent (331)
+[2024.05.16-18.21.47:321][995]LogModuleManager: Shutting down and abandoning module UdpMessaging (329)
+[2024.05.16-18.21.47:422][995]LogModuleManager: Shutting down and abandoning module TcpMessaging (327)
+[2024.05.16-18.21.47:523][995]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (325)
+[2024.05.16-18.21.47:523][995]LogModuleManager: Shutting down and abandoning module IKRig (323)
+[2024.05.16-18.21.47:523][995]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (321)
+[2024.05.16-18.21.47:523][995]LogModuleManager: Shutting down and abandoning module ControlRig (319)
+[2024.05.16-18.21.47:523][995]LogModuleManager: Shutting down and abandoning module Constraints (318)
+[2024.05.16-18.21.47:523][995]LogModuleManager: Shutting down and abandoning module LevelSequence (316)
+[2024.05.16-18.21.47:523][995]LogModuleManager: Shutting down and abandoning module AnimationData (313)
+[2024.05.16-18.21.47:523][995]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (311)
+[2024.05.16-18.21.47:523][995]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (309)
+[2024.05.16-18.21.47:523][995]LogModuleManager: Shutting down and abandoning module EnhancedInput (307)
+[2024.05.16-18.21.47:523][995]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (305)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (303)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module AndroidFileServer (301)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (299)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module PacketHandler (297)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (295)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module AnimGraph (293)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module TimeManagement (291)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module AnimationDataController (289)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (287)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (285)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module MediaAssets (283)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module Overlay (281)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module OverlayEditor (280)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module VREditor (277)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module StringTableEditor (275)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (273)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (271)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module FunctionalTesting (269)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (267)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (266)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module UMG (263)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module UMGEditor (262)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module EditorStyle (257)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module SlateReflector (255)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module Slate (253)
+[2024.05.16-18.21.47:550][995]LogModuleManager: Shutting down and abandoning module SlateCore (251)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (249)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (247)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module UnrealEd (245)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module MRMesh (243)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module Messaging (241)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (239)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (237)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module Networking (235)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module Core (233)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module AssetDefinition (231)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module MovieSceneTools (229)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module CurveEditor (228)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module KismetCompiler (223)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module MeshBuilder (221)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module NaniteBuilder (219)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module MeshUtilities (217)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (216)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (215)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (214)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (212)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (210)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (208)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module MaterialBaking (204)
+[2024.05.16-18.21.47:552][995]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (201)
+[2024.05.16-18.21.47:562][995]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (197)
+[2024.05.16-18.21.47:562][995]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (195)
+[2024.05.16-18.21.47:562][995]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2024.05.16-18.21.47:573][995]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2024.05.16-18.21.47:573][995]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2024.05.16-18.21.47:573][995]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2024.05.16-18.21.47:573][995]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module AudioFormatBink (180)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (177)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (175)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (173)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (171)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (167)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (165)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (163)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (161)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (159)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module TextureFormat (157)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module ImageWrapper (156)
+[2024.05.16-18.21.47:574][995]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (154)
+[2024.05.16-18.21.47:575][995]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (152)
+[2024.05.16-18.21.47:575][995]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (150)
+[2024.05.16-18.21.47:575][995]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (148)
+[2024.05.16-18.21.47:575][995]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (146)
+[2024.05.16-18.21.47:575][995]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (144)
+[2024.05.16-18.21.47:575][995]LogModuleManager: Shutting down and abandoning module TurnkeySupport (141)
+[2024.05.16-18.21.47:575][995]LogModuleManager: Shutting down and abandoning module InputCore (138)
+[2024.05.16-18.21.47:575][995]LogModuleManager: Shutting down and abandoning module Settings (136)
+[2024.05.16-18.21.47:575][995]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (134)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (132)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (131)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module GeometryCore (127)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module D3D12RHI (118)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module ChaosCloth (116)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (114)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module NiagaraShader (112)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (110)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (108)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (106)
+[2024.05.16-18.21.47:577][995]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (104)
+[2024.05.16-18.21.47:579][995]LogModuleManager: Shutting down and abandoning module XMPP (99)
+[2024.05.16-18.21.47:579][995]LogModuleManager: Shutting down and abandoning module WebSockets (98)
+[2024.05.16-18.21.47:615][995]LogModuleManager: Shutting down and abandoning module HTTP (95)
+[2024.05.16-18.21.47:616][995]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2024.05.16-18.21.47:616][995]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B471FCA51-4250-537F-153C-33846BE70AB9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c3f171a249409b2c8ac165937f42e3c5%7Ca6f48f9ab22745e8a9ee78a6ff6eb1cc%7Cae269914-ae6a-4172-815a-4b9c674048b5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.05.16-18.21.47:650][995]LogModuleManager: Shutting down and abandoning module SSL (94)
+[2024.05.16-18.21.47:652][995]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (90)
+[2024.05.16-18.21.47:652][995]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (88)
+[2024.05.16-18.21.47:652][995]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (86)
+[2024.05.16-18.21.47:652][995]LogModuleManager: Shutting down and abandoning module WmfMedia (84)
+[2024.05.16-18.21.47:655][995]LogModuleManager: Shutting down and abandoning module Media (83)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (80)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (78)
+[2024.05.16-18.21.47:657][995]RenderDocPlugin: plugin has been unloaded.
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module PixWinPlugin (76)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (74)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (72)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module ChunkDownloader (70)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module VariantManagerContent (68)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module GLTFExporter (66)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module DatasmithContent (64)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module AISupportModule (62)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (58)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (56)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (54)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module PlatformCrypto (52)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (50)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2024.05.16-18.21.47:657][995]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2024.05.16-18.21.47:658][995]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2024.05.16-18.21.47:658][995]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2024.05.16-18.21.47:658][995]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.05.16-18.21.47:658][995]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2024.05.16-18.21.47:658][995]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2024.05.16-18.21.47:658][995]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2024.05.16-18.21.47:658][995]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.05.16-18.21.47:658][995]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.05.16-18.21.47:658][995]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.05.16-18.21.47:660][995]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.05.16-18.21.47:660][995]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.05.16-18.21.47:660][995]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.05.16-18.21.47:660][995]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.05.16-18.21.47:660][995]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.05.16-18.21.47:660][995]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.05.16-18.21.47:660][995]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.05.16-18.21.47:660][995]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.05.16-18.21.47:660][995]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.05.16-18.21.47:660][995]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.05.16-18.21.47:660][995]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.05.16-18.21.47:851][995]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.05.16-18.21.47:881][995]LogExit: Exiting.
+[2024.05.16-18.21.47:915][995]Log file closed, 05/16/24 21:21:47
